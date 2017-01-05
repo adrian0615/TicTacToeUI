@@ -48,6 +48,16 @@
                ReferencedContainer = "container:TicTacToeUI.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0702F3BF1E1D5A55008BBBFC"
+               BuildableName = "TicTacToeCoreTests.xctest"
+               BlueprintName = "TicTacToeCoreTests"
+               ReferencedContainer = "container:TicTacToeUI.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
